@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-
 st.title("KPI Tracking Application")
 st.write("Track and manage KPI scores for HR functions on a monthly basis.")
 
